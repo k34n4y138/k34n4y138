@@ -1,4 +1,5 @@
-### Hi there 👋
+## Zakaria Moumen, Junior Developer In the process of self development and Self consciousness 🧠🔭🌱.
+Currently learning: Django,Angular,Advanced SQL
 
 <!--
 **k34n4y138/k34n4y138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
