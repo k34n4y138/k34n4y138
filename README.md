@@ -1,5 +1,7 @@
 ## Zakaria Moumen, Junior Developer In the process of self development and Self consciousness 🧠🔭🌱.
 Currently learning: Django,Angular,Advanced SQL <br/>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rupam-shil" alt="rupam-shil" /> </p>
+
 [![k34n4y138's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=k34n4y138&3)](https://github.com/k34n4y138/)
 <!--
 **k34n4y138/k34n4y138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
