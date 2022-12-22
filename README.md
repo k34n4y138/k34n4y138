@@ -8,10 +8,9 @@
 
 
 -----
-I'm a passionate computers psychologist that loves talking to computers. beep boop? beep. :)
-I'm currently a junior developer with skills I acquired by self-learning (and lots of googling)
+I'm a computers psychologist that loves talking to computers. beep boop? beep. :)
+I'm currently a junior Computer science engineer with skills I acquired by self-learning (and lots of googling)
 - Currently learning C, C++, UNIX and networking.
-- Also learning extra fields like webdev and defensive security.
 - I've built few websites using Angular and Django.
 - I find it fun to tackle obstacles by learning while doing new tech.
 - Currently a student at 1337 MED, we do magic there.
