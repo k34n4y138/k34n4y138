@@ -14,3 +14,5 @@ I'm currently a junior Computer science engineer with skills I acquired by self-
 - I've built few websites using Angular and Django.
 - I find it fun to tackle obstacles by learning while doing new tech.
 - Currently a student at 1337 MED, we do magic there.
+
+[![<username>'s 42 stats](https://badge.mediaplus.ma/black/zmoumen)](https://github.com/oakoudad/badge42)
