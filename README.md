@@ -8,11 +8,7 @@
 
 
 -----
-I'm a computers psychologist that loves talking to computers. beep boop? beep. :)
-I'm currently a junior Computer science engineer with skills I acquired by self-learning (and lots of googling)
-- Currently learning C, C++, UNIX and networking.
-- I've built few websites using Angular and Django.
-- I find it fun to tackle obstacles by learning while doing new tech.
-- Currently a student at 1337 MED, we do magic there.
+Computer Science student at 1337 MED and a member of the "42 The network". Proficient in Python, C++, Java, and Rust, I excel as a Backend Developer, adept in crafting Restful APIs using Django, Spring Boot, and managing Postgres databases. my skills extend to SysAdmin tasks, Tooling Linux and orchestrating with Kubernetes.
+
 
 [![<username>'s 42 stats](https://badge.mediaplus.ma/black/zmoumen)](https://github.com/oakoudad/badge42)
