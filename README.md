@@ -3,7 +3,7 @@
 </h1>
 <br/>
 <p>
-  Backend developper and student @ 1337!
+  Foing stuff @ Leet Solutions
 </p>
 
 <br>
